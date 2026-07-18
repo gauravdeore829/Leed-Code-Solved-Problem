@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0013-roman-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
