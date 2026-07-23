@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0203-remove-linked-list-elements) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
