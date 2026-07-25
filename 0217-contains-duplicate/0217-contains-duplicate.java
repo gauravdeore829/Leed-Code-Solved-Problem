@@ -3,11 +3,11 @@ class Solution {
         HashSet<Integer> sc=new HashSet<>();
         boolean s=true;
         int n=nums.length;
-        for(int i=0;i<n;i++){
-            if(sc.contains(nums[i]))
+        for(int x:nums){
+            if(sc.contains(x))
              
           return true;
-          else sc.add(nums[i]);
+          else sc.add(x);
         }
         return false;
        
