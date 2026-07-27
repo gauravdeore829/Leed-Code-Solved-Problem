@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0771-jewels-and-stones) |
 ## Recursion
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
