@@ -10,7 +10,7 @@ class Solution {
 
         for (int num : nums) {
 
-            // Three largest numbers
+            
             if (num >= max1) {
                 max3 = max2;
                 max2 = max1;
@@ -22,7 +22,7 @@ class Solution {
                 max3 = num;
             }
 
-            // Two smallest numbers
+         
             if (num <= min1) {
                 min2 = min1;
                 min1 = num;
