@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0876-middle-of-the-linked-list) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0349-intersection-of-two-arrays) |
@@ -101,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
