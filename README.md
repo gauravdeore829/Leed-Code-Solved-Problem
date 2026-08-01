@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0209-minimum-size-subarray-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
