@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -142,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
