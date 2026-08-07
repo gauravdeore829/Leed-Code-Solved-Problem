@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1052-grumpy-bookstore-owner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
