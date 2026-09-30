@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1572-matrix-diagonal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/2643-row-with-maximum-ones) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
