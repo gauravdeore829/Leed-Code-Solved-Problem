@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/gauravdeore829/Leed-Code-Solved-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
